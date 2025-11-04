@@ -2,6 +2,7 @@ aepfel
 birnen
 bananen
 orangen
+kekse
 bier
 leberkaese
 chips
