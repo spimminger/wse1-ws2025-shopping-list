@@ -1,4 +1,5 @@
 schwarzbrot
+baguette
 semmeln
 aepfel
 birnen
